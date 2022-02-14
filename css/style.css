@@ -112,23 +112,23 @@ td{
 
 #monitor{
     margin-top: 20px;
-    width: 300px;
-    height: 250px;
+    width: 312px;
+    height: 208px;
     background-image: url(../img/monitor.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
+    
 }
 
 .link_title{
     color: white;
     font-size: 20px;
     margin-left: 20px;
+    padding-top: 5px;
+    margin-top: 5px;
 }
 
 #graph{
-    width: 300px;
-    height: 250px;
+    width: 312px;
+    height: 208px;
     background-image: url(../img/graph.jpg);
-    background-size: contain;
-    background-repeat: no-repeat;
-}
+
+} 
