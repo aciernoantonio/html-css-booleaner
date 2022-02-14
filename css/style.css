@@ -101,3 +101,34 @@ td{
     background-color: white;
     color: black;
 }
+
+.special{
+    width: 40%;
+}
+
+#footer_site{
+    margin-top: 20px;
+}
+
+#monitor{
+    margin-top: 20px;
+    width: 300px;
+    height: 250px;
+    background-image: url(../img/monitor.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.link_title{
+    color: white;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+#graph{
+    width: 300px;
+    height: 250px;
+    background-image: url(../img/graph.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
