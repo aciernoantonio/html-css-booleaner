@@ -108,6 +108,7 @@ td{
 
 #footer_site{
     margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 #monitor{
@@ -130,5 +131,5 @@ td{
     width: 312px;
     height: 208px;
     background-image: url(../img/graph.jpg);
-
+    
 } 
