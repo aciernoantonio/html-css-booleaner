@@ -1,10 +1,35 @@
 /* 
     COLOR PALETTE
 
+        #4EA0FF header blue
         #20A9E5 table head blue
         #54BEEB credits blue
         #B1E5F2 table body blue
         #D7D7D7 light grey
 
 */
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+#header_site {
+    height: 5rem;
+    background-color: #4EA0FF;
+}
+
+#background_logo {
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat-x;
+    background-size: contain;
+    height: 5rem;
+    width: 100%;   
+}
+
+#logo {
+    height: 5rem;
+    width: 200px;
+}
 
